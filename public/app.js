@@ -1,3 +1,3 @@
-var greeter = require('./component/Greeter');
+var greeter = require('./components/Greeter');
 
 greeter();

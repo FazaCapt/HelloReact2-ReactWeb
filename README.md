@@ -32,3 +32,4 @@ Document:
 Cara menggunakannya:
 
 1. Webpack: 'webpack ./public/app.js ./public/bundle.js' => di terminal
+2. configurasi webpack: 'https://webpack.github.io/docs/configuration.html'
