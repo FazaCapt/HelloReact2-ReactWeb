@@ -28,3 +28,7 @@ Document:
 2. React: 'https://facebook.github.io/react/docs/installation.html'
 3. React-DOM: 'https://facebook.github.io/react/docs/react-dom.html'
 4. Babel: 'https://babeljs.io/docs/usage/api/'
+
+Cara menggunakannya:
+
+1. Webpack: 'webpack ./public/app.js ./public/bundle.js' => di terminal
