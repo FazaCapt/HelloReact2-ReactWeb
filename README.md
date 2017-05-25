@@ -28,9 +28,11 @@ Document:
 2. React: 'https://facebook.github.io/react/docs/installation.html'
 3. React-DOM: 'https://facebook.github.io/react/docs/react-dom.html'
 4. Babel: 'https://babeljs.io/docs/usage/api/'
+5. babel-loader: 'https://webpack.js.org/loaders/'
+6.  configurasi weback: 'https://webpack.github.io/docs/configuration.html'
+
 
 Cara menggunakannya:
 
 1. Webpack: 'webpack ./public/app.js ./public/bundle.js' => di terminal
-2. configurasi webpack: 'https://webpack.github.io/docs/configuration.html'
-3. babel-loader: 'https://webpack.js.org/loaders/'
+2. webpack -w && node server.js di tab 2 (seperti nodemon)
